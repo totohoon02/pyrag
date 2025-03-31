@@ -1,4 +1,5 @@
-# PyRAG
+# AI-Agent
+![image](https://github.com/user-attachments/assets/fea95636-bb61-4a61-a656-71f58f648bd7)
 
 ### RAG application with
 
